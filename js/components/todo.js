@@ -1,6 +1,6 @@
 'use strict';
 const TodoItem= (data,update) => {
-    const todo = $('<diiv class="todo">');
+    const todo = $('<div class="todo">');
     const checkbox = $ ('<input type = "checkbox">');
     const span = $('<span>' + data.text + '</span>');
     const remove = $ ('<button>Remove</button>');
@@ -36,7 +36,7 @@ const Todo = () => {
     const list = $('<div class="list"></div>');
     const hr = $('<hr>');
     const completedTitle = $('<p>Completed Items</p>');
-    const completedList = $('<div class="completed"></div>');
+    const completedList = $('<div class="completed checked"></div>');
     parent.append(input);
     parent.append(todoTitle);
     parent.append(list);
