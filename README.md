@@ -7,7 +7,7 @@ Crearemos un to do app que permitirá:
 
 * remover una tarea
 
-###Datos importantes sobre la estructura del proyecto:
+### Datos importantes sobre la estructura del proyecto:
 
 1. El archivo index.html cuenta con un layout básico por defecto con un div que sirve de ancla para el proyecto.
 
