@@ -15,3 +15,4 @@ Crearemos un to do app que permitirá:
 
 3. Los componentes Header y Todo se encargan de pintar sus seciones de HTML, asi como manejar sus propios eventos y funciones.
 
+[Puedes ver aquí el desarrollo](https://strongwarmi.github.io/Todo_ReactStyle/)
